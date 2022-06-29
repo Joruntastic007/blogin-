@@ -1,0 +1,133 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+hr{
+  border-top: dotted #EAF6F6;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding: 50px;
+}
+h1{
+font-size: 5.625rem;
+position: relative;
+top: 45px;
+color: #66BFBF;
+font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  color: #14C38E;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.my-title{
+  color: #66BFBF;
+  font-size: 2.05rem;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+color: #11999E;
+margin-top: 45px;
+margin-bottom: 45px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 350px;
+}
+.profile-img{
+  height: 15%;
+  width: 15%;
+  margin: 50px auto 30px auto;
+}
+.profile-para{
+  line-height: 2;
+  letter-spacing: 2px;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-heading{
+  margin: 100px auto 100px auto;
+}
+.football{
+width: 25%;
+float: right;
+margin-left: 30px;
+}
+.contact-me{
+  margin: 100px auto 100px auto;
+}
+.contact-para{
+width: 40%;
+margin: 40px auto 60px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 50;
+  -moz-border-radius: 50;
+  border-radius: 50px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+a{
+  margin: 10px 20px;
+  color: #774360;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  height: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.copyright{
+  color: #EAF6F6;
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
